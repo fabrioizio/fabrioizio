@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**fabrioizio/fabrioizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Systems Engineering** student, constantly learning and developing professionally. Currently, I'm focusing on becoming a **Backend Developer**, gaining experience with **Java**, **Spring Boot**, and best practices for designing and developing efficient backend systems.
 
-Here are some ideas to get you started:
+### 🚀 What I’m working on
+- Learning to design and implement robust backend architectures.  
+- Developing my skills in API creation and optimization.  
+- Exploring cloud technologies like AWS and Docker.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m learning
+- Fundamentals of microservices architecture.  
+- Advanced database management tools.  
+
+### 🎯 Other interests
+- Automating processes to increase efficiency.  
+- Collaborating on impactful projects.  
+- Learning about artificial intelligence and integrating it into backend systems.  
+
+### 💡 Objective  
+I aim to apply my knowledge to **create my own business**, optimizing processes and developing innovative solutions.  
