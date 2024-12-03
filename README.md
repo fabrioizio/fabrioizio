@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏻
 
 Welcome to my GitHub profile! I'm a **Systems Engineering** student, constantly learning and developing professionally. Currently, I'm focusing on becoming a **Backend Developer**, gaining experience with **Java**, **Spring Boot**, and best practices for designing and developing efficient backend systems.
 
